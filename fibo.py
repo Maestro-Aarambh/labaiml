@@ -1,4 +1,4 @@
-def fibo(n):
+def fibon(n):
     a,b=map(int,input("Enter first two element of fibonnaci series:").split())
     print("fibonacci series upto ", n,"Numbers is: ")
     for _ in range(n):
