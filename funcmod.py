@@ -11,4 +11,3 @@ def palin(n):
         print(n,"is a palindrome")
     else:
         print(n,"is not a palindrome")
-palin(131)
