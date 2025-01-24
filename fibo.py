@@ -4,4 +4,3 @@ def fibo(n):
     for _ in range(n):
         print(a,end=" ")
         a,b=b,b+a
-fibo(10)
